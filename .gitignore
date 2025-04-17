@@ -1,0 +1,48 @@
+# Android Studio / IntelliJ
+*.iml
+.idea/
+.idea/caches
+.idea/libraries
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+
+# Gradle
+.gradle/
+build/
+local.properties
+.externalNativeBuild/
+.cxx/
+
+# macOS
+.DS_Store
+
+# Capture and logs
+captures/
+*.log
+
+# Kotlin plugin data
+.kotlin/
+
+# Java compiled class files
+*.class
+
+# BlueJ
+*.ctxt
+
+# J2ME
+.mtj.tmp/
+
+# Package files
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# JVM crash logs
+hs_err_pid*
+replay_pid*
